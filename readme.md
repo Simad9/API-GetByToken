@@ -2,8 +2,8 @@
 
 Perintah : Akses API Get tapi harus login dan mendapatkan token, dimana tokennya digunakan untuk melihat diri\
 \
-Komentar : Ngotak atik rupanya di bagian routes yang masih bingung apakah bentrok atau gimana soalnya di software postman gak muncul muncul, tapi akhirnay muncul\
-\
+Komentar : Ngotak atik rupanya di bagian routes yang masih bingung apakah bentrok atau gimana soalnya di software postman gak muncul muncul, tapi akhirnay muncul
+
 
 ## Setup Project
 
