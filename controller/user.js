@@ -255,7 +255,7 @@ const getUserByToken = async (req, res, next) => {
       token = authorization.substring(7);
     } else {
       const error = new Error("You need to login");
-      error.statusCode = 403;
+      error.statusCode = 400;
       throw error;
     }
 
